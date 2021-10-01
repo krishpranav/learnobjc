@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		78CDC0E92707425700D38439 /* ifelse.m in Sources */ = {isa = PBXBuildFile; fileRef = 78CDC0E82707425700D38439 /* ifelse.m */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		78CDC0DB270741B800D38439 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		78CDC0DD270741B800D38439 /* ifelse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ifelse; sourceTree = BUILT_PRODUCTS_DIR; };
+		78CDC0E82707425700D38439 /* ifelse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ifelse.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +57,7 @@
 		78CDC0E7270741E800D38439 /* ifelse */ = {
 			isa = PBXGroup;
 			children = (
+				78CDC0E82707425700D38439 /* ifelse.m */,
 			);
 			path = ifelse;
 			sourceTree = "<group>";
@@ -112,6 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78CDC0E92707425700D38439 /* ifelse.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
