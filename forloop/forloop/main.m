@@ -1,9 +1,15 @@
-//
-//  main.m
-//  forloop
-//
-//  Created by devsystem20 on 01/10/21.
-//  Copyright © 2021 krisnapranav. All rights reserved.
-//
+/*
+ * Copyright (c) 2021, Krisna Pranav
+ *
+ * SPDX-License-Identifier: BSD-2-Clause
+ */
 
-#import <Foundation/Foundation.h>
+/* imports */
+#include <Foundation/Foundation.h>
+
+int main()
+{
+    NSLog("Hello world");
+    
+    return 0;
+}
