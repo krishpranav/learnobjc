@@ -19,14 +19,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		783B93C927074D100037BACB /* strings */ = {isa = PBXFileReference; lastKnownFileType = folder; path = strings; sourceTree = "<group>"; };
+		783B93CA27074D100037BACB /* forloop */ = {isa = PBXFileReference; lastKnownFileType = folder; path = forloop; sourceTree = "<group>"; };
+		783B93CB27074D100037BACB /* helloworld */ = {isa = PBXFileReference; lastKnownFileType = folder; path = helloworld; sourceTree = "<group>"; };
+		783B93CC27074D100037BACB /* ifelse */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ifelse; sourceTree = "<group>"; };
+		783B93CD27074D100037BACB /* bool */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bool; sourceTree = "<group>"; };
 		78CDC0C6270740B400D38439 /* learnobjc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = learnobjc; sourceTree = BUILT_PRODUCTS_DIR; };
 		78CDC0D0270740D600D38439 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		78CDC0D1270740D600D38439 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		78CDC0D2270740D600D38439 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		78CDC11A2707490700D38439 /* ifelse */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ifelse; sourceTree = "<group>"; };
-		78CDC11B2707490700D38439 /* bool */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bool; sourceTree = "<group>"; };
-		78CDC11C2707490700D38439 /* strings */ = {isa = PBXFileReference; lastKnownFileType = folder; path = strings; sourceTree = "<group>"; };
-		78CDC11D2707490700D38439 /* helloworld */ = {isa = PBXFileReference; lastKnownFileType = folder; path = helloworld; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,10 +44,11 @@
 		78CDC0BD270740B400D38439 = {
 			isa = PBXGroup;
 			children = (
-				78CDC11B2707490700D38439 /* bool */,
-				78CDC11D2707490700D38439 /* helloworld */,
-				78CDC11A2707490700D38439 /* ifelse */,
-				78CDC11C2707490700D38439 /* strings */,
+				783B93CD27074D100037BACB /* bool */,
+				783B93CA27074D100037BACB /* forloop */,
+				783B93CB27074D100037BACB /* helloworld */,
+				783B93CC27074D100037BACB /* ifelse */,
+				783B93C927074D100037BACB /* strings */,
 				78CDC0D0270740D600D38439 /* .gitignore */,
 				78CDC0D1270740D600D38439 /* LICENSE */,
 				78CDC0D2270740D600D38439 /* README.md */,
